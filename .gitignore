@@ -24,3 +24,7 @@ hs_err_pid*
 replay_pid*
 #TARGET
 /automationexercise/target/
+#.idea
+/.idea/
+#.mvn
+/automationexercise/.mvn/
