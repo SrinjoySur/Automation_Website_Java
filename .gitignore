@@ -29,4 +29,4 @@ replay_pid*
 automationexercise.iml
 
 /automationexercise/target/
-/allure-results/
+automationexercise/allure-results/
