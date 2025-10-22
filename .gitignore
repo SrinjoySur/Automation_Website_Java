@@ -30,3 +30,5 @@ automationexercise.iml
 
 /automationexercise/target/
 automationexercise/allure-results/
+#environment
+.env
